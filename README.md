@@ -12,3 +12,7 @@ Just drag the xd-loading to your resources folder and add `ensure xd-loading` to
 # Support
 
 Join my discord for support on installing it or if you come to any issues or bugs.
+
+# Preview
+
+https://streamable.com/ue5ntp
